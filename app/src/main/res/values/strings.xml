@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grupo Asesores Test</string>
+    <string name="some_error">Ocurrió un error y ya lo hemos notificado a Soporte Técnico</string>
+    <string name="empty_list">No hay resultados para esta consulta</string>
+</resources>
